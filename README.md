@@ -1,6 +1,6 @@
-# networks
-Straight from our lab in CEG.
+# networks lab code
+Lab exercises
 <br>
-The project is ideated over the advantages of using WireShark for network analysis.
+The code are helpful in client server communication
 <br>
-<b>Have a great day :)</b>
+<b>Have a great experience:)</b>
